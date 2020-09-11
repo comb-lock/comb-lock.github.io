@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+[中文版](/cn/)
 
-You can use the [editor on GitHub](https://github.com/comb-lock/comb-lock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is Comb Lock?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Countless passwords, or whatever bits and pieces of text need to be kept secret, are a headache in this day and age. Writing them down in your head is a heavy burden, and writing them down somewhere is a security risk.
 
-### Markdown
+There are a lot of "password management software" on the market, but I haven't found one that is secure, transparent, and not too fancy. So I made one.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Comb Lock_ is a general-purpose password (actually, all text) management tool that uses root passwords, standard encryption, and the structured document(which saves all encrypted information).
 
-```markdown
-Syntax highlighted code block
+### Usage
+1. Remember a strong root password
+2. Use it to manage all your passwords and notes.
+3. Back up the generated encrypted file for use wherever needed.
 
-# Header 1
-## Header 2
-### Header 3
+### Tool features
 
-- Bulleted
-- List
+Comb Lock contains only the core functions to make it safe and strong at the tool level.
 
-1. Numbered
-2. List
+- **Simple**: one root password to encrypt all recorded information
+- **Security**: Recognized reliable encryption algorithms & fully open source themselves
+- **Pure**: All platform apps are not networked, do not collect any information, and do not engage in any unrelated behavior.
+- **Generic**: Encrypted documents can be imported and exported, and can be decrypted manually.
 
-**Bold** and _Italic_ and `Code` text
+Compared to other software of its kind, Comb Lock can be described as rudimentary, but that's what makes it so reassuring. Obviously, this tool just does the encryption and record keeping for us, more convenient, but not irreplaceable. Even if this tool disappears in the future, people with documents and passwords will still be able to recover information.
 
-[Link](url) and ![Image](src)
-```
+### Scenarios that don't fit
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For the ultimate in safety and reliability, the use of this tool means facts below.
 
-### Jekyll Themes
+- No multimedia, only recorded text
+- Cannot auto-fill the password blanks, you have to do it manually.
+- No cloud service, you need to back up the encrypted document yourself.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comb-lock/comb-lock.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you can't live with the these points, then this tool may not be for you.
 
-### Support or Contact
+### Schedules
+A client is planned to be implemented on all major platforms, along with a detailed manual encryption and decryption document.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [ ] Android
+- [ ] iOS
+- [ ] Web
+- [ ] Windows
+- [ ] MacOS
+- [ ] Linux
+
+
+Current status: 2020-09-11, project inception & initial development
