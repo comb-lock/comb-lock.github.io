@@ -4,7 +4,7 @@ description: 一个安全、纯粹和通用的密码（文本）管理工具。
 permalink: /cn/
 ---
 
-[English Version](/)
+[English Version](/)  |  [GitHub](https://github.com/comb-lock)
 
 ## 什么是密码锁（Comb Lock）
 

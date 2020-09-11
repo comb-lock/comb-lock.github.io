@@ -1,4 +1,4 @@
-[中文版](/cn/)
+[中文版](/cn/)  |  [GitHub](https://github.com/comb-lock)
 
 ## What is Comb Lock?
 
