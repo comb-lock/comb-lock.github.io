@@ -37,6 +37,7 @@ If you can't live with the these points, then this tool may not be for you.
 ### Schedules
 A client is planned to be implemented on all major platforms, along with a detailed manual encryption and decryption document.
 
+- [x] Core functions demo
 - [ ] Android
 - [ ] iOS
 - [ ] Web
@@ -45,4 +46,4 @@ A client is planned to be implemented on all major platforms, along with a detai
 - [ ] Linux
 
 
-Current status: 2020-09-11, project inception & initial development
+Current status: 2020-09-16, Complete basic implementation and demonstration of core functionality.
